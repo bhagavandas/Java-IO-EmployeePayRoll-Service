@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bl.EmpPayrollServices.NIOFileAPITest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-08-31T01:21:50" hostname="LAPTOP-PG23OKAD" time="0.074">
+  <properties/>
+  <testcase name="givenPathWhenCheckedThenConfirm()" classname="com.bl.EmpPayrollServices.NIOFileAPITest" time="0.074"/>
+  <system-out><![CDATA[C:\Users\das181\TempPlayGround\temp1
+C:\Users\das181\TempPlayGround\temp2
+C:\Users\das181\TempPlayGround\temp3
+C:\Users\das181\TempPlayGround\temp4
+C:\Users\das181\TempPlayGround\temp5
+C:\Users\das181\TempPlayGround\temp6
+C:\Users\das181\TempPlayGround\temp7
+C:\Users\das181\TempPlayGround\temp8
+C:\Users\das181\TempPlayGround\temp9
+C:\Users\das181\TempPlayGround\temp1
+C:\Users\das181\TempPlayGround\temp2
+C:\Users\das181\TempPlayGround\temp3
+C:\Users\das181\TempPlayGround\temp4
+C:\Users\das181\TempPlayGround\temp5
+C:\Users\das181\TempPlayGround\temp6
+C:\Users\das181\TempPlayGround\temp7
+C:\Users\das181\TempPlayGround\temp8
+C:\Users\das181\TempPlayGround\temp9
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
